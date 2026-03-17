@@ -137,7 +137,7 @@ export default function Footer() {
         <div style={bottomStyle}>
           <p style={copyrightStyle}>© Chude Muonelo. All rights reserved.</p>
           <p style={domainsStyle}>
-            fpwds.online&nbsp;&nbsp;|&nbsp;&nbsp;fpwds.org
+            fpwds.online&nbsp;&nbsp;|&nbsp;&nbsp;fpwds.org&nbsp;&nbsp;|&nbsp;&nbsp;friendsofpeoplewithdisabilities.org&nbsp;&nbsp;|&nbsp;&nbsp;friendsofpeoplewithdisabilities.online
           </p>
           <p style={disclaimerStyle}>
             FPWDs is not a therapy service. For mental health emergencies, call or text&nbsp;
